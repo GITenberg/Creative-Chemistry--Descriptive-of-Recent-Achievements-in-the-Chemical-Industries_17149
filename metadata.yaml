@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7172
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Emery_Slosson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17149#Creative-Chemistry--Descriptive-of-Recent-Achievements-in-the-Chemical-Industries
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2005-11-24'
 gutenberg_type: Text
